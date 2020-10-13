@@ -1,8 +1,5 @@
 ##################################
 
-# REFINE RAW DATA
-
-# This is for scenarios regarding SNUCH's Sedation and MAC treatment
 
 # Date : 2020.09.17
 # Made by : Peter JH Park
