@@ -1,6 +1,5 @@
 ###################################
 
-# This is for scenarios regarding SNUCH's Sedation and MAC treatment
 
 # Date : 2020.07.21
 # Made by : Peter JH Park
